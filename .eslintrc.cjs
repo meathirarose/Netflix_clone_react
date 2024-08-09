@@ -21,5 +21,6 @@ module.exports = {
       'warn',
       { varsIgnorePattern: '^React$' }, 
     ],
+    'react/prop-types': 'off', 
   },
 };
